@@ -96,7 +96,7 @@ export const projects = [
   {
     id: 4,
     title: "Kayman Ventures",
-    des: "Created an Ecomerce platform for the selling of products on or offline. Integrated with paystack payment gateway for seamless transcation.",
+    des: "Created an Ecommerce platform for the selling of products on or offline. Integrated with paystack payment gateway for seamless transcation.",
     img: "/p4.png",
     iconLists: ["/cpu.png", "/code.png", "/activity.png", "/three.svg", "/gsap.svg"],
     link: "https://github.com/flashthought/iot-patient-monitor",
