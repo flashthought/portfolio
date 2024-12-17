@@ -88,7 +88,11 @@ export const projects = [
   {
     id: 3,
     title: "HealthHive",
+<<<<<<< HEAD
     des: "Developed a web app using nextjs that had a medication reminder feature, can calculate your body mass index and give you a brief description of some of the most common diseases.",
+=======
+    des: "Developed an app using javascript that had a medication reminder feature, can calculate your body mass index and give you a brief description of some of the most common diseases.",
+>>>>>>> e403829400a44937414d3ec17ff8cf98cd94009e
     img: "/p3.png",
     iconLists: ["/algorithm.png", "/code.png", "/activity.png", "/three.svg", "/c.svg"],
     link: "https://github.com/flashthought/joint-stress-model",
@@ -96,7 +100,11 @@ export const projects = [
   {
     id: 4,
     title: "Kayman Ventures",
+<<<<<<< HEAD
     des: "Created an eccomerce platform for the selling of products on or offline. Integrated with paystack payment gateway for seamless transcation.",
+=======
+    des: "Created an Ecomerce platform for the selling of products on or offline. Integrated with paystack payment gateway for seamless transcation.",
+>>>>>>> e403829400a44937414d3ec17ff8cf98cd94009e
     img: "/p4.png",
     iconLists: ["/cpu.png", "/code.png", "/activity.png", "/three.svg", "/gsap.svg"],
     link: "https://github.com/flashthought/iot-patient-monitor",
